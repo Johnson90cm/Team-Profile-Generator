@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.employee-card {
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.text-dark {
+    color: black;
+}
+
+.text-dark:hover {
+    background-color:#808080
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    background-color: lavenderblush;
+    border-radius: 15%;
+    color: black;
+}
+
