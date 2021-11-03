@@ -1,5 +1,3 @@
-  ![License: MIT(https://img.shields.io/badge/License-MIT-yellow.svg)]
-
   # Project Title: Team Profile Generator
 
   ### Table of Contents
