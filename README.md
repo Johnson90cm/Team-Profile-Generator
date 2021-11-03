@@ -5,8 +5,6 @@
   ### Table of Contents
   * [Description](#description)
   * [Installation](#installation)
-  * [Usage](#usesage)
-  * [Credits](#credits)
   * [License](#license)
 
   ## Description
@@ -15,17 +13,11 @@
   ## Installation
   clone the repo, install node, run "node index.js from the root directory"
 
-  ## Useage
-  
-
-  ## Credits
-  
+  ## Click for Demo
+  [![Demo](./Screenshot.png)](https://www.youtube.com/watch?v=4Ubd4ko_nrY)
 
   ## License
   This application is covered under the MIT License
-
-  ## Test
-  
 
   ## Questions? 
   Contact: 
